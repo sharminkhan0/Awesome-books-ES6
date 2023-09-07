@@ -100,7 +100,7 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 Coming Soon
-- [Live Demo Link]( Coming Soon)
+- [Live Demo Link](https://sharminkhan0.github.io/Awesome-books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
