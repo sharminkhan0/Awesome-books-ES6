@@ -21,7 +21,4 @@ links.forEach((link) => {
 
 const now = DateTime.now();
 const date = document.querySelector('.dayDate');
-date.textContent = now.toLocaleString(DateTime.DATETIME_MED);import { DateTime } from './modules/luxon.js';
-import {
-  addBook, contact, listpage,
-} from './modules/navbar.js';
+date.textContent = now.toLocaleString(DateTime.DATETIME_MED);
